@@ -1,5 +1,5 @@
 # PalmoBot
-telegram bot propositional logic expressions and more.
+Telegram bot propositional logic expressions and more.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -34,7 +34,7 @@ node index.js
 
 * **Magazzù Giuseppe** - [Darklod](https://github.com/Darklod)
 * **Tropeano Pietro**
-* **Alind Xhyra**
+* **Xhyra Alind**
 
 ## License
 
