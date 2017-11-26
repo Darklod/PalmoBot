@@ -34,10 +34,9 @@ node index.js
 
 * **Magazzù Giuseppe** - [Darklod](https://github.com/Darklod)
 * **Tropeano Pietro**
-* **Xhyra Alind**
+* **Xhyra Alind** - [aXhyra](https://github.com/aXhyra)
 * **Marino Mario**
-* **Magazzù Gaetano**
-
+* **Magazzù Gaetano** - [lfx98](https://github.com/lfx98)
 ## License
 
 This project is licensed under the MIT - License - see the [LICENSE](LICENSE) file for details
