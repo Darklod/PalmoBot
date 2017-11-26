@@ -35,6 +35,8 @@ node index.js
 * **Magazzù Giuseppe** - [Darklod](https://github.com/Darklod)
 * **Tropeano Pietro**
 * **Xhyra Alind**
+* **Marino Mario**
+* **Magazzù Gaetano**
 
 ## License
 
